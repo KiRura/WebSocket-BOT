@@ -1,0 +1,2 @@
+# WebSocket-BOT
+discord.jsをサポート役に回してWebSocketとAPIを直で叩いて動かすBOT
