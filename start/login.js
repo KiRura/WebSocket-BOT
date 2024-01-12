@@ -28,7 +28,7 @@ export default {
         intents: GatewayIntentBits.Guilds
       }
     }))
-    logger.info('Success to login')
+    logger.info('Successful login')
 
     setInterval(() => {
       con.send(JSON.stringify({ op: 1, d: null }))
